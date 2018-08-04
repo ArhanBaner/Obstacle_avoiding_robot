@@ -8,3 +8,11 @@ To install a new library into your Arduino IDE you can use the Library Manager. 
 
 In the Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library. At the top of the drop down list, select the option to "Add .ZIP Library''. Navigate to the .zip file's location and open it. Return to the Sketch > Include Library menu. menu. You should now see the library at the bottom of the drop-down menu. It is ready to be used in your sketch.
 
+#### Libraries required for this Application
+
+- AccelStepper.h (For stepper motor)
+- Servo.h (For Servo motor)
+- IRremote.h (For IR Remote - Seperate installation required)
+
+
+For more help, visit https://www.arduino.cc/
