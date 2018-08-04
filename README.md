@@ -14,3 +14,10 @@ The ultrasonic sensor that is mounted in the front updates every 1.5 seconds to 
 - Due to there being only one ultrasonic sensor mounted in the front and no feedback circuitry in the stepper motor, while reversing it does not check for obstacles behind and will run into them
 
 - The servo motor reorients itself when the program is starting for the first time and may change the steering of the rear axle
+
+### Images
+
+
+<img src = "images/Front View.JPG" width = "450">
+<img src = "images/Side View.JPG" width = "450">
+<img src = "images/Back View.JPG" width = "450">
